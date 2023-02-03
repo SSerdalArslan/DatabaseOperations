@@ -1,0 +1,1 @@
+﻿Select Job, avg(Salary) as 'totalSalary' from Personel Group by job
